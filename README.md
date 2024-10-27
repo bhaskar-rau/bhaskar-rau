@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# About Me
+# Hi there 👋
 
 As a versatile software engineer with a strong foundation in full-stack development and cloud computing, I bring hands-on experience across a variety of platforms and technologies. From building responsive front-end applications with React and TypeScript frameworks to engineering scalable backend services using Spring Boot and Java, I am passionate about delivering high-performance solutions that drive business value.
 
